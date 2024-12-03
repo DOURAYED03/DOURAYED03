@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DOURAYED03
+- 👋 Hi, I’m @DOURAYED
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css c,c++,java script 
 - 💞️ I’m looking to collaborate on web
