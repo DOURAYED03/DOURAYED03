@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DOURAYED03
-- 👀 I’m interested in web devollpment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html,css c,c++,java script 
 - 💞️ I’m looking to collaborate on web
 - 📫 How to reach me dourayedg@gmail.com
