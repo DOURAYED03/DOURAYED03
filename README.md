@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @DOURAYED
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html,css c,c++,java script 
-- 💞️ I’m looking to collaborate on web
-- 📫 How to reach me dourayedg@gmail.com
-- 😄 Pronouns: DOURAYED 
-- ⚡ Fun fact: 
+# 👋 Hi, I’m @DOURAYED!
 
-<!---
-DOURAYED03/DOURAYED03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a passionate web developer, specializing in building dynamic websites and web applications. I’m currently learning and improving my skills in both frontend and backend development.
+
+## 🌱 Currently Learning:
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** .......
+- **Languages:** C, C++,Python 
+- **Tools:** Git, GitHub, VS Code
+
+## 💞️ I’m Looking to Collaborate On:
+- Web apps
+- Personal projects
+- Open source contributions
+
+## 📫 How to Reach Me:
+- Email: [dourayedg@gmail.com](mailto:dourayedg@gmail.com)
+- LinkedIn: glii-dourayed-14047a30b
+
+
+## 😄 Pronouns: DOURAYED
+
+## ⚡ Fun Fact: I love solving algorithm challenges in my spare time!
