@@ -4,7 +4,7 @@ I’m a passionate web developer, specializing in building dynamic websites and 
 
 ## 🌱 Currently Learning:
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** .......
+- **Backend:** php
 - **Languages:** C, C++,Python 
 - **Tools:** Git, GitHub, VS Code
 
