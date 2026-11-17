@@ -1,45 +1,46 @@
-# Hi, I'm Dourayed Glii 👋
+# Dourayed Glii
 
-### Computer Engineering Student | AI & Software Engineering Enthusiast
+## Computer Engineering Student | AI and Software Engineering
 
-I'm a final-year Computer Engineering student at **École Nationale Supérieure d’Ingénieurs de Tunis (ENSIT)**, passionate about building intelligent applications and scalable software solutions.
+I am a Computer Engineering student at **École Nationale Supérieure d'Ingénieurs de Tunis (ENSIT)**, interested in artificial intelligence, intelligent systems, software engineering, and practical AI integration.
 
-My interests include **Artificial Intelligence, Machine Learning, Full-Stack Development, and MLOps**. I enjoy transforming ideas into practical applications, exploring new technologies, and continuously improving my engineering skills.
+I enjoy turning ideas into maintainable applications: from weather dashboards and CRUD systems to automation APIs, AI-assisted analysis, and security learning. My focus is on understanding the problem, building a clear solution, and improving it through testing and iteration.
 
-### 🛠️ Technical Skills
+## Focus areas
 
-- **Programming Languages:** Python, Java, C, C++, JavaScript, PHP
-- **Frontend Development:** React, Angular, Ionic, HTML, CSS, Tailwind CSS
-- **Backend Development:** Flask, FastAPI, Node.js
-- **Databases:** MySQL, MongoDB, SQLite
-- **AI & Machine Learning:** Scikit-learn, Pandas, NumPy, Librosa
-- **Tools & Technologies:** Git, GitHub, Docker, Linux, REST APIs
+- Artificial intelligence and intelligent systems
+- AI integration in useful software products
+- Full-stack web and API development
+- Software architecture and maintainability
+- Cybersecurity learning and CTF methodology
 
-### 🚀 Areas of Interest
+## Technologies
 
-- Artificial Intelligence & Machine Learning
-- Intelligent Systems and AI Integration
-- Full-Stack Web & Mobile Development
-- MLOps and Model Deployment
-- Software Architecture and Cloud Technologies
+| Area | Technologies |
+|---|---|
+| Languages | Python, TypeScript, JavaScript, PHP, Java, C, C++ |
+| Frontend | React, Angular, Ionic, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express, Flask, FastAPI, PHP/MySQLi |
+| Data | MySQL, MongoDB, SQLite |
+| AI and media | Anthropic/Claude integration, speech and language tooling |
+| Tools | Git, GitHub, Linux, Docker, REST APIs, WebSockets |
 
-### 📌 What I'm Working On
+## Selected projects
 
-- Developing end-to-end machine learning pipelines.
-- Building AI-powered applications and intelligent systems.
-- Designing and implementing full-stack web applications.
-- Exploring deployment, containerization, and production-ready software.
+- [Portfolio](https://github.com/DOURAYED03/portfolio) — bilingual React/TypeScript portfolio with theme switching and a client-side email contact flow.
+- [Weather App](https://github.com/DOURAYED03/Weather_app) — Angular dashboard for weather, forecasts, air quality, saved locations, maps, and charts.
+- [Library Management](https://github.com/DOURAYED03/library-management) — PHP/MySQL CRUD application for books and library users.
+- [Competitor Intelligence API](https://github.com/DOURAYED03/scraping_social_media) — Express API integrating public video metadata collection, Claude analysis, n8n delivery, and scheduled jobs.
+- [CTF Writeups](https://github.com/DOURAYED03/CTF-writeups) — structured notes for cybersecurity challenges and lessons learned.
 
-### 🤝 Let's Collaborate
+## Collaboration
 
-I'm interested in collaborating on innovative software projects, AI-powered applications, and open-source initiatives where I can contribute, learn, and create meaningful solutions.
+I also contribute to academic and team projects involving freelance marketplaces, research-center management, and AI interview simulation. These repositories are maintained by their respective owners.
 
-### 📫 Connect With Me
+## Contact
 
-- **Email:** [dourayedg@gmail.com](mailto:dourayedg@gmail.com)
-- **LinkedIn:** [Glii Dourayed](https://www.linkedin.com/in/glii-dourayed-14047a30b/)
-- **GitHub:** [@DOURAYED03](https://github.com/DOURAYED03)
+- Email: [dourayedg@gmail.com](mailto:dourayedg@gmail.com)
+- LinkedIn: [Glii Dourayed](https://www.linkedin.com/in/glii-dourayed-14047a30b/)
+- GitHub: [@DOURAYED03](https://github.com/DOURAYED03)
 
----
-
-*Always learning. Always building. Always improving.* 🚀
+I am open to internships, software engineering opportunities, AI collaborations, and technically meaningful projects.
